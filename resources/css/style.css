@@ -1,0 +1,50 @@
+.all{
+  font-family: helvetica;
+  text-align: center;
+}
+.image{
+  position:relative;
+  width: 100%;
+  color: white;
+}
+h1{
+  font-size: 70px;
+  font-weight: bold;
+
+}
+.pages{
+  font-size: 18px;
+  position: absolute;
+  top: 0px;
+  left: 0;
+  width: 100%;
+}
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+.rubrik{
+  font-size: 23px;
+  font-weight: bold;
+}
+.text{
+  font-size: 14px;
+}
+.design{
+  position: relative;
+  width: 100%;
+}
+h3{
+  font-size: 23px;
+  font-weight: bold;
+  color:;
+  top: 0px;
+  left: 0;
+  width: 100%;
+}
+footer{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
